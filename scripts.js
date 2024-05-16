@@ -236,6 +236,8 @@ btn_1.type = "button";
 btn_1.innerText = "1";
 btn_1.id = "onee";
 btn_1.id = "1";
+btn_1.id = "2";
+btn_1.id = "equal";
 
 btn_1.style = `   height: 48px;
 width: 48px;
